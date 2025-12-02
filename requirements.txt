@@ -1,0 +1,13 @@
+# Estruturas de Dados Lineares em Python
+# Artigo: "Implementação de Estruturas de Dados Lineares"
+
+# Este projeto utiliza apenas a biblioteca padrão do Python
+# Python 3.13+ é recomendado
+
+# Não há dependências externas obrigatórias!
+# Todas as estruturas são implementadas usando apenas:
+# - list (built-in)
+# - collections.deque (stdlib)
+# - time (stdlib)
+# - sys (stdlib)
+
